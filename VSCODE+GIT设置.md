@@ -1,7 +1,7 @@
 目录
 # git及github设置
 ## 配置GIT全局name和email
-`git config --global user.name "name"`  
+`git config --global vuser.name "name"`  
   `git config --global user.email "email" `
 ## 配置SSH Key
 - 生成SSH Key
@@ -28,7 +28,7 @@
 - qiniu-fig-bed 七牛图床 快捷键改为`Ctrl+Q`
 # 还未研究的文章 暂时mark
 [实用帖 | 如何为 Markdown 文件自动生成目录？](https://www.jianshu.com/p/4721ddd27027)
-[如何给VScode配置git](https://www.jianshu.com/p/3c480961210f?from=timeline)
-[vscode 插件推荐](https://www.jianshu.com/p/1c178f5c029c)
-[Visual Studio Code教程：基础使用和自定义设置](http://www.cnblogs.com/shawWey/p/7908779.html)
-[vscode使用Markdown文档编写](https://www.cnblogs.com/shawWey/p/8931697.html)
+<br>[如何给VScode配置git](https://www.jianshu.com/p/3c480961210f?from=timeline)
+<br>[vscode 插件推荐](https://www.jianshu.com/p/1c178f5c029c)
+<br>[Visual Studio Code教程：基础使用和自定义设置](http://www.cnblogs.com/shawWey/p/7908779.html)
+<br>[vscode使用Markdown文档编写](https://www.cnblogs.com/shawWey/p/8931697.html)
