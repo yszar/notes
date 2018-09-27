@@ -10,6 +10,8 @@
 
 # 配置LeanCloud
 
+* 网址 https://leancloud.cn
+
 在注册完成LeanCloud帐号并验证邮箱之后，我们就可以登录我们的LeanCloud帐号，进行一番配置之后拿到AppID以及AppKey这两个参数即可正常使用文章阅读量统计的功能了。
 
 ## 创建应用
